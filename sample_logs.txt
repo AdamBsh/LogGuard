@@ -1,0 +1,14 @@
+2023-03-12 08:23:15 [INFO] User john123 logged in successfully from IP 192.168.1.50
+2023-03-12 08:25:30 [ERROR] Failed login attempt for user admin from IP 192.168.1.100
+2023-03-12 08:27:45 [ERROR] Failed login attempt for user admin from IP 192.168.1.100
+2023-03-12 08:30:10 [ERROR] Failed login attempt for user root from IP 192.168.1.100
+2023-03-12 08:35:22 [INFO] Password reset requested for user emily@example.com
+2023-03-12 08:45:23 [ERROR] Failed login attempt for user admin from IP 192.168.1.101
+2023-03-12 09:15:30 [INFO] User support_team logged in successfully from IP 192.168.1.52
+2023-03-12 10:23:15 [ERROR] Failed login attempt for user oracle from IP 192.168.1.210
+2023-03-12 10:25:45 [ERROR] Failed login attempt for user postgres from IP 192.168.1.210
+2023-03-12 10:27:10 [ERROR] Failed login attempt for user mysql from IP 192.168.1.210
+2023-03-12 08:45:23 [ERROR] Failed login attempt for user admin from IP 192.168.1.101
+2023-03-12 08:45:23 [ERROR] Failed login attempt for user admin from IP 192.168.1.101
+2023-03-12 08:45:23 [ERROR] Failed login attempt for user admin from IP 192.168.1.101
+2023-03-12 13:45:23 [INFO] User admin logged in successfully from IP 192.168.1.50
